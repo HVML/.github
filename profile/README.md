@@ -48,15 +48,17 @@ For the predefined variables of HVML, please refer to _HVML Specifiction of Pred
 
 From July 2022, we will gradually release the following source code repositories:
 
-- PurC (the Prime hVml inteRpreter for C language): <https://github.com/HVML/purc>.
-- PurC Fetcher (the remote data fetcher for PurC): <https://github.com/HVML/purc-fetcher>.
-- PurCMC (an HVML renderer in text-mode): <https://github.com/HVML/purc-midnight-commander>.
-- xGUI Pro (an advanced HVML renderer based on WebKit): <https://github.com/HVML/xgui-pro>.
+- PurC (the Prime hVml inteRpreter for C language).
+- PurC Fetcher (the remote data fetcher for PurC).
+- PurCMC (an HVML renderer in text-mode).
+- xGUI Pro (an advanced HVML renderer based on WebKit).
+
+Please stay tuned!
 
 ## Members and Sponsors
 
-The HVML project invovles many complex software such as the interpreter,
-the debugger, the renderer, and so on.
+The whole HVML project invovles many complex software such as the specifications,
+the interpreter, the debugger, the renderer, and so on.
 
 This is a huge project, and it could not be achieved with a few people or companies.
 The initiators of HVML, [Vincent Wei], decided to unite others to jointly develop
@@ -76,13 +78,15 @@ technically progressive and financially stable.
    - LIU Xin
 - Contributors
    - XU Xiaohong
+- Sponsors
+   - [FMSoft Technologies]
 
 Anyone or organization can participate in the HVML project in different ways:
 
 - Become a member and take part in the development.
 - Sponsor this project.
 
-Join us now!
+[Write to us](mailto:tobesponsor@fmsoft.cn) and join HVML Community now!
 
 ---
 
