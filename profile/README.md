@@ -77,8 +77,10 @@ technically progressive and financially stable.
 - Silver Members:
 
 - Individual Members:
-   - XU Xiaohong
    - LIU Xin
+
+- Contributors
+   - XU Xiaohong
 
 Anyone or organization can participate in the HVML project in different ways:
 
