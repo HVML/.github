@@ -62,7 +62,7 @@ Anyone or organization can participate in the HVML project in different ways:
 - Become a member and take part in the development.
 - Sponsor this project.
 
-[Write to us](mailto:tobesponsor@fmsoft.cn) and join HVML Community now!
+[Write to us](mailto:hvml@fmsoft.cn) and join HVML Community now!
 
 ## Resources
 
