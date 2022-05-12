@@ -1,32 +1,66 @@
-# Welcome to HVML Community
+# Welcome to the HVML Community
 
 **Table of Contents**
 
 [//]:# (START OF TOC)
 
 - [Introduction](#introduction)
-- [Resources](#resources)
 - [Members and Sponsors](#members-and-sponsors)
+- [Resources](#resources)
 
 [//]:# (END OF TOC)
 
 ## Introduction
 
-During the development of [HybridOS], [Vincent Wei] proposed a new-style,
-general-purpose, and easy-to-learn programming language called `HVML`.
+During the development of [HybridOS], [Vincent Wei] proposed a new-style
+and easy-to-learn programming language called `HVML`.
 
 The original design goal of HVML is to allow developers who are familiar with
 C/C++, Python, or other programming languages to easily develop GUI applications
 by using Web front-end technologies (such as HTML/SVG, DOM and CSS), instead of
 using JavaScript programming language in a web browser or Node.js.
 
-We achieved this design goal and also designed HVML as a new-style and
+We achieved this design goal and also designed HVML as a
 general-purpose programming language. Now, we can not only use HVML as
 a programming language to rapidly develop GUI applications based on Web
 front-end technologies in the C/C++ runtime environment, but also use HVML
-as a general script language.
+as a generic script language.
 
-In this article, we describe the design and the implementation of HVML.
+In addition to the specification documents that define a programming language,
+the whole HVML project invovles many complex software such as the interpreter,
+the debugger, the renderer, and so on.
+
+This is a huge project, and it could not be achieved with a few people or
+companies. The initiators of HVML, [Vincent Wei], decided to unite others to
+jointly develop HVML in an open source collaboration.
+
+Hence the HVML community is here.
+
+## Members and Sponsors
+
+The members make up the Administrative Leadership structure for the HVML Project.
+They contribute time, money, and effort in order to consistently make the HVML
+technically progressive and financially stable.
+
+- Initiators:
+   - [Vincent Wei]:
+- Platinum Members:
+   - [FMSoft Technologies]
+- Gold Members:
+- Silver Members:
+- Individual Members:
+   - LIU Xin
+- Contributors
+   - XU Xiaohong
+- Sponsors
+   - [FMSoft Technologies]
+
+Anyone or organization can participate in the HVML project in different ways:
+
+- Become a member and take part in the development.
+- Sponsor this project.
+
+[Write to us](mailto:tobesponsor@fmsoft.cn) and join HVML Community now!
 
 ## Resources
 
@@ -55,39 +89,6 @@ From July 2022, we will gradually release the following source code repositories
 
 Please stay tuned!
 
-## Members and Sponsors
-
-The whole HVML project invovles many complex software such as the specifications,
-the interpreter, the debugger, the renderer, and so on.
-
-This is a huge project, and it could not be achieved with a few people or companies.
-The initiators of HVML, [Vincent Wei], decided to unite others to jointly develop
-HVML in an open source collaboration.
-
-The members make up the Administrative Leadership structure for the HVML Project.
-They contribute time, money, and effort in order to consistently make the HVML
-technically progressive and financially stable.
-
-- Initiators:
-   - [Vincent Wei]:
-- Platinum Members:
-   - [FMSoft Technologies]
-- Gold Members:
-- Silver Members:
-- Individual Members:
-   - LIU Xin
-- Contributors
-   - XU Xiaohong
-- Sponsors
-   - [FMSoft Technologies]
-
-Anyone or organization can participate in the HVML project in different ways:
-
-- Become a member and take part in the development.
-- Sponsor this project.
-
-[Write to us](mailto:tobesponsor@fmsoft.cn) and join HVML Community now!
-
 ---
 
 [Beijing FMSoft Technologies Co., Ltd.]: https://www.fmsoft.cn
@@ -100,6 +101,4 @@ Anyone or organization can participate in the HVML project in different ways:
 [WebKit]: https://webkit.org
 
 [Vincent Wei]: https://github.com/VincentWei
-
-
 
