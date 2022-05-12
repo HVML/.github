@@ -68,17 +68,12 @@ technically progressive and financially stable.
 
 - Initiators:
    - [Vincent Wei]:
-
 - Platinum Members:
    - [FMSoft Technologies]
-
 - Gold Members:
-
 - Silver Members:
-
 - Individual Members:
    - LIU Xin
-
 - Contributors
    - XU Xiaohong
 
