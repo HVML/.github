@@ -13,7 +13,8 @@
 ## Introduction
 
 During the development of [HybridOS], [Vincent Wei] proposed a new-style
-and easy-to-learn programming language called `HVML`.
+and easy-to-learn programming language called `HVML`. HVML is the acronym for
+`Hybrid Virtual Markup Language`.
 
 The original design goal of HVML is to allow developers who are familiar with
 C/C++, Python, or other programming languages to easily develop GUI applications
@@ -74,7 +75,7 @@ _HVML, a Programable Markup Language_:
 For the language specification of HVML, please refer to _HVML Specifiction V1.0_:
 
 - [Page on GitHub.Com](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
-- [Page on GitHub.Com](https://gitlab.fmsoft.cn/hvml/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
+- [Page on GitLab.FMSoft.CN](https://gitlab.fmsoft.cn/hvml/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
 
 For the predefined variables of HVML, please refer to _HVML Specifiction of Predefined Variables V1.0_:
 
