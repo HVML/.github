@@ -4,6 +4,9 @@
 
 [//]:# (START OF TOC)
 
+- [Introduction](#introduction)
+- [Resources](#resources)
+- [Members and Sponsors](#members-and-sponsors)
 
 [//]:# (END OF TOC)
 
