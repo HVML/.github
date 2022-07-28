@@ -12,29 +12,24 @@
 
 ## Introduction
 
-During the development of [HybridOS], [Vincent Wei] proposed a new-style
-and easy-to-learn programming language called `HVML`. HVML is the acronym for
-`Hybrid Virtual Markup Language`.
+During the development of [HybridOS], [Vincent Wei] proposed a new-style and easy-to-learn programming language called `HVML`.
+HVML is the acronym for `Hybrid Virtual Markup Language`.
 
-The original design goal of HVML is to allow developers who are familiar with
-C/C++, Python, or other programming languages to easily develop GUI applications
-by using Web front-end technologies (such as HTML/SVG, DOM and CSS), instead of
-using JavaScript programming language in a web browser or Node.js.
+The original design goal of HVML is to allow developers who are familiar with C/C++, Python,
+    or other programming languages to easily develop GUI applications by using Web front-end technologies (such as HTML/SVG, DOM and CSS),
+    instead of using JavaScript programming language in a web browser or Node.js.
 
-We have achieved this design goal and also designed HVML as a
-general-purpose programming language. Now, we can not only use HVML as
-a programming language to rapidly develop GUI applications based on Web
-front-end technologies in the C/C++ runtime environment, but also use HVML
-as a generic script language.
+We have achieved this design goal and also designed HVML as a general-purpose programming language.
+Now, we can not only use HVML as a programming language to rapidly develop GUI applications based on Web front-end technologies in the C/C++ runtime environment,
+    but also use HVML as a general-purpose script language to write scripting tools, and even the gateway of a Web server.
 
-In addition to the specification documents that define a programming language,
-the whole HVML project invovles many complex software such as the interpreter,
-the debugger, the renderer, and so on.
+Vincent Wei and his team has released an open source HVML interpreter called `PurC` and an HVML renderer `xGUI Pro` based on WebKit.
+However, in addition to the specification documents that define a programming language,
+    the whole HVML project invovles many complex software such as the interpreter, the debugger, the renderer, and so on.
 
-Although we have basically achieved the initial goal, there is still a lot of
-work to be done. It will be a long-term project, and it could not be achieved
-with a few people or companies. The initiators of HVML, [Vincent Wei], decided
-to unite others to jointly develop HVML in an open source collaboration.
+Although we have basically achieved the initial goal, there is still a lot of work to be done.
+It will be a long-term project, and it could not be achieved with a few people or companies.
+The initiators of HVML, [Vincent Wei], decided to unite others to jointly develop HVML in an open source collaboration.
 
 Hence the HVML community is here.
 
@@ -44,16 +39,21 @@ The members make up the Administrative Leadership structure for the HVML Project
 They contribute time, money, and effort in order to consistently make the HVML
 technically progressive and financially stable.
 
-- Initiators:
-   - [Vincent Wei]:
+- Initiators and key developers:
+   - Vincent Wei: The architect; one of the maintainers of PurC and xGUI Pro.
+   - XUE Shuming: One of maintainers of PurC and PurC Fetcher.
+   - XU Xiaohong: One of maintainers of PurC.
+   - LIU Xin: The maintainer of extenal DVObj `FS` and `FILE` of PurC.
+- Contributors
+   - DAI Zhenan (戴哲楠）:The visual designer of HVML logo.
+   - TIAN Siyuan (田思源）:The original designer of HVML logo.
+
 - Platinum Members:
    - [FMSoft Technologies]
 - Gold Members:
 - Silver Members:
 - Individual Members:
    - LIU Xin
-- Contributors
-   - XU Xiaohong
 - Sponsors
    - [FMSoft Technologies]
 
@@ -66,30 +66,29 @@ Anyone or organization can participate in the HVML project in different ways:
 
 ## Resources
 
-For an detailed introduction to HVML, please refer to the article
-_HVML, a Programable Markup Language_:
+To quickly learn how to program with HVML, please refer to the tutorial:
 
-- [Page on GitHub.Com](https://github.com/HVML/hvml-docs/blob/master/en/an-introduction-to-hvml-en.md)
-- [Page on GitLab.FMSoft.CN](https://gitlab.fmsoft.cn/hvml/hvml-docs/-/blob/master/en/an-introduction-to-hvml-en.md)
+- [Learn HVML Programming in 30 Minutes](https://github.com/HVML/hvml-docs/blob/master/en/learn-hvml-programming-in-30-minutes-en.md)
 
-For the language specification of HVML, please refer to _HVML Specifiction V1.0_:
+For an detailed introduction to HVML, please refer to the article:
 
-- [Page on GitHub.Com](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
-- [Page on GitLab.FMSoft.CN](https://gitlab.fmsoft.cn/hvml/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
+- [HVML, a Programable Markup Language](https://github.com/HVML/hvml-docs/blob/master/en/an-introduction-to-hvml-en.md)
 
-For the predefined variables of HVML, please refer to _HVML Specifiction of Predefined Variables V1.0_:
+For the language specification of HVML, please refer to the specification doucment:
 
-- [Page on GitHub.Com](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
-- [Page on GitLab.FMSoft.CN](https://gitlab.fmsoft.cn/hvml/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
+- [HVML Specifiction V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
 
-From July 2022, we will gradually release the following source code repositories:
+For the predefined variables of HVML, please refer to the specification document:
 
-- PurC (the Prime hVml inteRpreter for C language).
-- PurC Fetcher (the remote data fetcher for PurC).
-- PurCMC (an HVML renderer in text-mode).
-- xGUI Pro (an advanced HVML renderer based on WebKit).
+- [HVML Specifiction of Predefined Variables V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
 
-Please stay tuned!
+Here are links to the open source repositories:
+
+- [PurC](https://github.com/HVML/PurC): the Prime hVml inteRpreter for C language.
+- [PurC Fetcher](https://github.com/HVML/PurC-Fetcher): the remote data fetcher for PurC.
+- [PurCMC](https://github.com/HVML/PurC-Midnight-Commander): an HVML renderer in text-mode for developing and debugging.
+- [DOM Ruler](https://github.com/HVML/DOM-Ruler): a library to maintain a DOM tree, lay out and stylize the DOM elements by using CSS.
+- [xGUI Pro](https://github.com/HVML/xGUI-Pro): an advanced HVML renderer based on WebKit.
 
 ---
 
