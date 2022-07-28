@@ -12,7 +12,7 @@
 
 ## Introduction
 
-During the development of [HybridOS], [Vincent Wei] proposed a new-style and easy-to-learn programming language called `HVML`.
+During the development of [HybridOS], [Vincent Wei] proposed and designed a new-style and easy-to-learn programming language called `HVML`.
 HVML is the acronym for `Hybrid Virtual Markup Language`.
 
 The original design goal of HVML is to allow developers who are familiar with C/C++, Python,
@@ -21,15 +21,15 @@ The original design goal of HVML is to allow developers who are familiar with C/
 
 We have achieved this design goal and also designed HVML as a general-purpose programming language.
 Now, we can not only use HVML as a programming language to rapidly develop GUI applications based on Web front-end technologies in the C/C++ runtime environment,
-    but also use HVML as a general-purpose script language to write scripting tools, and even the gateway of a Web server.
+    but also use HVML as a general-purpose programming language to write scripting tools, and even the gateway of a Web server.
 
 Vincent Wei and his team has released an open source HVML interpreter called `PurC` and an HVML renderer `xGUI Pro` based on WebKit.
-However, in addition to the specification documents that define a programming language,
+However, in addition to the specification documents that define the programming language,
     the whole HVML project invovles many complex software such as the interpreter, the debugger, the renderer, and so on.
 
-Although we have basically achieved the initial goal, there is still a lot of work to be done.
-It will be a long-term project, and it could not be achieved with a few people or companies.
-The initiators of HVML, [Vincent Wei], decided to unite others to jointly develop HVML in an open source collaboration.
+Although we have basically achieved the initial goal, there is still a lot of work to do.
+It will be a long-term project, and it could not be achieved with only a few people or companies.
+The initiators and the designer of HVML, Vincent Wei, decided to unite others to jointly develop HVML in an open source collaboration.
 
 Hence the HVML community is here.
 
