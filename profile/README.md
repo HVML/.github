@@ -39,15 +39,6 @@ The members make up the Administrative Leadership structure for the HVML Project
 They contribute time, money, and effort in order to consistently make the HVML
 technically progressive and financially stable.
 
-- Initiators and key developers:
-   - Vincent Wei: The architect; one of the maintainers of PurC and xGUI Pro.
-   - XUE Shuming: One of maintainers of PurC and PurC Fetcher.
-   - XU Xiaohong: One of maintainers of PurC.
-   - LIU Xin: The maintainer of extenal DVObj `FS` and `FILE` of PurC.
-- Contributors
-   - DAI Zhenan (戴哲楠）:The visual designer of HVML logo.
-   - TIAN Siyuan (田思源）:The original designer of HVML logo.
-
 - Platinum Members:
    - [FMSoft Technologies]
 - Gold Members:
@@ -63,6 +54,19 @@ Anyone or organization can participate in the HVML project in different ways:
 - Sponsor this project.
 
 [Write to us](mailto:hvml@fmsoft.cn) and join HVML Community now!
+
+## Developers and Contributors
+
+- Developers:
+   - Vincent Wei: The architect; one of the maintainers of PurC and xGUI Pro.
+   - XUE Shuming: One of maintainers of PurC and PurC Fetcher.
+   - XU Xiaohong: One of maintainers of PurC.
+   - LIU Xin: The maintainer of extenal DVObj `FS` and `FILE` of PurC.
+   - GENG Yue: The developer of some built-in dynamic objects.
+- Contributors
+   - Gavin Guo: The visual designer of HVML logo.
+   - DAI Zhenan (戴哲楠）: The visual designer of HVML logo.
+   - TIAN Siyuan (田思源）: The original designer of HVML logo.
 
 ## Resources
 
