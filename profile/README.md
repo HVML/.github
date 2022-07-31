@@ -70,11 +70,11 @@ Anyone or organization can participate in the HVML project in different ways:
 
 ## Resources
 
-To quickly learn how to program with HVML, please refer to the tutorial:
+To quickly learn how to program with HVML, please refer to the tutorial (80% complete):
 
 - [Learn HVML Programming in 30 Minutes](https://github.com/HVML/hvml-docs/blob/master/en/learn-hvml-programming-in-30-minutes-en.md)
 
-For an detailed introduction to HVML, please refer to the article:
+For an detailed introduction to HVML, please refer to the article (10% complete):
 
 - [HVML, a Programable Markup Language](https://github.com/HVML/hvml-docs/blob/master/en/an-introduction-to-hvml-en.md)
 
@@ -90,9 +90,9 @@ Here are links to the open source repositories:
 
 - [PurC](https://github.com/HVML/PurC): the Prime hVml inteRpreter for C language.
 - [PurC Fetcher](https://github.com/HVML/PurC-Fetcher): the remote data fetcher for PurC.
-- [PurCMC](https://github.com/HVML/PurC-Midnight-Commander): an HVML renderer in text-mode for developing and debugging.
 - [DOM Ruler](https://github.com/HVML/DOM-Ruler): a library to maintain a DOM tree, lay out and stylize the DOM elements by using CSS.
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro): an advanced HVML renderer based on WebKit.
+- [PurC Midnight Commander](https://github.com/HVML/PurC-Midnight-Commander): an HVML renderer in text-mode for developing and debugging.
 
 ---
 
