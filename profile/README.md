@@ -70,7 +70,7 @@ Anyone or organization can participate in the HVML project in different ways:
 
 ## Resources
 
-To quickly learn how to program with HVML, please refer to the tutorial (80% complete):
+To quickly learn how to program with HVML, please refer to the tutorial:
 
 - [Learn HVML Programming in 30 Minutes](https://github.com/HVML/hvml-docs/blob/master/en/learn-hvml-programming-in-30-minutes-en.md)
 
