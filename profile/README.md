@@ -60,7 +60,7 @@ Anyone or organization can participate in the HVML project in different ways:
 - Developers:
    - Vincent Wei: The architect; one of the maintainers of PurC and xGUI Pro.
    - XUE Shuming: One of maintainers of PurC and PurC Fetcher.
-   - XU Xiaohong: One of maintainers of PurC.
+   - XU Xiaohong: One of developers of PurC.
    - LIU Xin: The maintainer of extenal DVObj `FS` and `FILE` of PurC.
    - GENG Yue: The developer of some built-in dynamic objects.
 - Contributors
@@ -89,8 +89,6 @@ For the predefined variables of HVML, please refer to the specification document
 Here are links to the open source repositories:
 
 - [PurC](https://github.com/HVML/PurC): the Prime hVml inteRpreter for C language.
-- [PurC Fetcher](https://github.com/HVML/PurC-Fetcher): the remote data fetcher for PurC.
-- [DOM Ruler](https://github.com/HVML/DOM-Ruler): a library to maintain a DOM tree, lay out and stylize the DOM elements by using CSS.
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro): an advanced HVML renderer based on WebKit.
 - [PurC Midnight Commander](https://github.com/HVML/PurC-Midnight-Commander): an HVML renderer in text-mode for developing and debugging.
 
