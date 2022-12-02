@@ -4,9 +4,10 @@
 
 [//]:# (START OF TOC)
 
-- [Introduction](#introduction)
-- [Members and Sponsors](#members-and-sponsors)
-- [Resources](#resources)
+- [介绍](#介绍)
+- [会员和赞助商](#会员和赞助商)
+- [开发者和贡献者](#开发者和贡献者)
+- [资源](#资源)
 
 [//]:# (END OF TOC)
 
@@ -70,7 +71,7 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
    - Gavin Guo：HVML 徽标视觉设计者。
    - 戴哲楠：HVML 徽标设计者。
    - 田思源：HVML 徽标的最初设计者。
-   - [Complete contributors list](https://hvml.fmsoft.cn/zh/community).
+   - [完整的贡献者清单](https://hvml.fmsoft.cn/zh/community).
 
 ## 资源
 
