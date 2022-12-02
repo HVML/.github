@@ -71,7 +71,7 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
    - Gavin Guo：HVML 徽标视觉设计者。
    - 戴哲楠：HVML 徽标设计者。
    - 田思源：HVML 徽标的最初设计者。
-   - [完整的贡献者清单](https://hvml.fmsoft.cn/zh/community).
+- [完整的开发者和贡献者清单](https://hvml.fmsoft.cn/zh/community#developers)。
 
 ## 资源
 

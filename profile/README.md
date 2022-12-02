@@ -74,7 +74,7 @@ Anyone or organization can participate in the HVML project in different ways:
    - Gavin Guo: The visual designer of HVML logo.
    - DAI Zhenan (戴哲楠): The visual designer of HVML logo.
    - TIAN Siyuan (田思源): The original designer of HVML logo.
-   - [Complete contributors list](https://hvml.fmsoft.cn/community).
+- [Complete developers and contributors list](https://hvml.fmsoft.cn/community#developers).
 
 ## Resources
 
