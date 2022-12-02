@@ -10,7 +10,7 @@
 
 [//]:# (END OF TOC)
 
-**中文版请点击[此处](profile/README-zh.md)**
+**[中文版请点击此处](profile/README-zh.md)**
 
 ## Introduction
 
@@ -42,17 +42,23 @@ technically progressive and financially stable.
 
 - Platinum Members:
    - [FMSoft Technologies]
+   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
 - Gold Members:
+   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
 - Silver Members:
+   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
 - Individual Members:
    - LIU Xin
+   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
 - Sponsors
    - [FMSoft Technologies]
+   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
 
 Anyone or organization can participate in the HVML project in different ways:
 
 - Become a member and take part in the development.
 - Sponsor this project.
+- Contribute your knowledge, time, and effort.
 
 [Write to us](mailto:hvml@fmsoft.cn) and join HVML Community now!
 
@@ -64,10 +70,11 @@ Anyone or organization can participate in the HVML project in different ways:
    - LIU Xin: The developer and maintainer of extenal DVObj `FS` and `FILE` of PurC.
    - XU Xiaohong: He was involved in the development of PurC prior to v0.8.0.
    - GENG Yue: He was involved in the development of PurC prior to v0.2.0.
-- Contributors
+- Contributors:
    - Gavin Guo: The visual designer of HVML logo.
-   - DAI Zhenan (戴哲楠）: The visual designer of HVML logo.
-   - TIAN Siyuan (田思源）: The original designer of HVML logo.
+   - DAI Zhenan (戴哲楠): The visual designer of HVML logo.
+   - TIAN Siyuan (田思源): The original designer of HVML logo.
+   - [Complete contributors list](https://hvml.fmsoft.cn/community).
 
 ## Resources
 

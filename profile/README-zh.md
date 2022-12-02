@@ -10,6 +10,8 @@
 
 [//]:# (END OF TOC)
 
+**[Back to English Version](https://github.com/HVML)**
+
 ## 介绍
 
 在 [HybridOS]（合璧操作系统）的开发中，[Vincent Wei]（魏永明）提出并设计了一款全新且易学的编程语言 `HVML`。
@@ -36,12 +38,17 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
 
 - 白金会员：
    - [飞漫软件]
+   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
 - 黄金会员：
+   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
 - 白银会员：
+   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
 - 个人会员：
    - 刘新
+   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
 - 赞助商
    - [飞漫软件]
+   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
 
 任何人或组织可以以不同的方式参与 HVML 项目：
 
@@ -63,16 +70,17 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
    - Gavin Guo：HVML 徽标视觉设计者。
    - 戴哲楠：HVML 徽标设计者。
    - 田思源：HVML 徽标的最初设计者。
+   - [Complete contributors list](https://hvml.fmsoft.cn/zh/community).
 
 ## 资源
 
 要想了解如何使用 HVML 编程，可参阅如下教程：
 
-- [30 分钟学会 HVML 编程](https://github.com/HVML/hvml-docs/blob/master/en/learn-hvml-programming-in-30-minutes-zh.md)
+- [30 分钟学会 HVML 编程](https://github.com/HVML/hvml-docs/blob/master/zh/learn-hvml-programming-in-30-minutes-zh.md)
 
-For an detailed introduction to HVML, please refer to the article (10% complete):
+要了解 HVML 的来由和设计思想，可阅读如下文章：
 
-- [HVML, a Programable Markup Language](https://github.com/HVML/hvml-docs/blob/master/en/an-introduction-to-hvml-en.md)
+- [漫谈 HVML，它的由来和未来](https://github.com/HVML/hvml-docs/blob/master/zh/brief-introduction-to-hvml-zh.md)
 
 HVML 规范，可参阅如下文档：
 
@@ -80,9 +88,9 @@ HVML 规范，可参阅如下文档：
 
 HVML 预定义变量，可从参阅如下规范文档：
 
-- [HVML Specifiction of Predefined Variables V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
+- [HVML 预定义变量规范 V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
 
-下面 HVML 相关项目的开源仓库的链接：
+下面是 HVML 相关项目的开源仓库的链接：
 
 - [PurC](https://github.com/HVML/PurC)：C 语言实现的 HVML 解释器（the Prime hVml inteRpreter for C language）。
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro)：一款基于 WebKit 实现的 HVML 渲染器。
