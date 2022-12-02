@@ -10,6 +10,8 @@
 
 [//]:# (END OF TOC)
 
+**中文版请点击[此处](README-zh.md)**
+
 ## Introduction
 
 During the development of [HybridOS], [Vincent Wei] proposed and designed a new-style and easy-to-learn programming language called `HVML`.
@@ -23,9 +25,8 @@ We have achieved this design goal and also designed HVML as a general-purpose pr
 Now, we can not only use HVML as a programming language to rapidly develop GUI applications based on Web front-end technologies in the C/C++ runtime environment,
     but also use HVML as a general-purpose programming language to write scripting tools, and even the gateway of a Web server.
 
-Vincent Wei and his team has released an open source HVML interpreter called `PurC` and an HVML renderer `xGUI Pro` based on WebKit.
-However, in addition to the specification documents that define the programming language,
-    the whole HVML project invovles many complex software such as the interpreter, the debugger, the renderer, and so on.
+Vincent Wei and his team has released the specification documents that define the programming language, an open source HVML interpreter called `PurC`,
+        and an HVML renderer `xGUI Pro` based on WebKit.
 
 Although we have basically achieved the initial goal, there is still a lot of work to do.
 It will be a long-term project, and it could not be achieved with only a few people or companies.
@@ -60,9 +61,9 @@ Anyone or organization can participate in the HVML project in different ways:
 - Developers:
    - Vincent Wei: The architect; one of the maintainers of PurC and xGUI Pro.
    - XUE Shuming: One of maintainers of PurC and PurC Fetcher.
-   - XU Xiaohong: One of developers of PurC.
-   - LIU Xin: The maintainer of extenal DVObj `FS` and `FILE` of PurC.
-   - GENG Yue: The developer of some built-in dynamic objects.
+   - LIU Xin: The developer and maintainer of extenal DVObj `FS` and `FILE` of PurC.
+   - XU Xiaohong: He was involved in the development of PurC prior to v0.8.0.
+   - GENG Yue: He was involved in the development of PurC prior to v0.2.0.
 - Contributors
    - Gavin Guo: The visual designer of HVML logo.
    - DAI Zhenan (戴哲楠）: The visual designer of HVML logo.
