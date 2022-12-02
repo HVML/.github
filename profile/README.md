@@ -10,7 +10,7 @@
 
 [//]:# (END OF TOC)
 
-**中文版请点击[此处](README-zh.md)**
+**中文版请点击[此处](profile/README-zh.md)**
 
 ## Introduction
 
