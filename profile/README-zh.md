@@ -93,7 +93,7 @@ HVML 预定义变量，可从参阅如下规范文档：
 
 下面是 HVML 相关项目的开源仓库的链接：
 
-- [PurC](https://github.com/HVML/PurC)：C 语言实现的 HVML 解释器（the Prime hVml inteRpreter for C language）。
+- [PurC](https://github.com/HVML/PurC)：首个针对 C/C++ 语言的 HVML 解释器（the Prime hVml inteRpreter for C/C++ language）。
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro)：一款基于 WebKit 实现的 HVML 渲染器。
 - [PurC Midnight Commander](https://github.com/HVML/PurC-Midnight-Commander)：文本模式的 HVML 渲染器，用于开发和调试。
 

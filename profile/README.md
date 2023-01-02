@@ -96,7 +96,7 @@ For the predefined variables of HVML, please refer to the specification document
 
 Here are links to the open source repositories:
 
-- [PurC](https://github.com/HVML/PurC): the Prime hVml inteRpreter for C language.
+- [PurC](https://github.com/HVML/PurC): the Prime hVml inteRpreter for C/C++ language.
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro): an advanced HVML renderer based on WebKit.
 - [PurC Midnight Commander](https://github.com/HVML/PurC-Midnight-Commander): an HVML renderer in text-mode for developing and debugging.
 
