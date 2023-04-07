@@ -1,17 +1,6 @@
 # 欢迎来到 HVML 社区
 
-**目录**
-
-[//]:# (START OF TOC)
-
-- [介绍](#介绍)
-- [会员和赞助商](#会员和赞助商)
-- [开发者和贡献者](#开发者和贡献者)
-- [资源](#资源)
-
-[//]:# (END OF TOC)
-
-**[Back to English Version](https://github.com/HVML)**
+**[English Version](https://github.com/HVML)**
 
 ## 介绍
 
@@ -33,15 +22,27 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
 这便是 HVML 社区的来由。
 要加入 HVML 社区，现在便可 [致信我们](mailto:hvml@fmsoft.cn) 或访问 <https://hvml.fmsoft.cn> 以获取更多信息！
 
+## 最近更新
+
+- 2023 年 3 月 31 日，HVML 社区发布了 HVML 开源解释器 PurC 0.9.8，主要特性如下：
+   - 可加载动态对象 `$PY` 的基本实现，HVML 现在可和 Python 交互。
+   - Foil 渲染器提供对浮动和绝对定位的支持。
+   - 增加自动化测试程序（HVML 编写），用于测试 Foil 渲染器。
+   - 增加示例程序，用于说明如何在 HVML 程序中内嵌 Python 代码。
+   - 增加示例程序，用于说明如何使用 Foil 渲染器。
+- 2023 年 3 月 31 日，HVML 社区发布了 HVML 开源渲染器 xGUI Pro 0.6.4，主要特性如下：
+   - xGUI Pro 可直接运行在上游标准的 WebKit2GTK 开发包之上。
+   - xGUI Pro 可运行在 Linux 和 macOS 上。
+
 ## 主要开发者和贡献者
 
-- 开发者：
+- 主要开发者：
    - 魏永明：架构师，HVML 解释器 PurC 和渲染器 xGUI Pro 的主要开发者和维护者。
    - 薛淑明：HVML 解释器 PurC 的主要开发者和维护者。
    - 刘新：HVML 解释器 PurC 中外部动态对象 `FS` 和 `FILE` 的开发者和维护者。
    - 徐晓宏：曾参与 HVML 解释器 PurC v0.8.0 之前的开发。
    - 耿岳：曾参与 HVML 解释器 PurC v0.2.0 之前的开发。
-- 贡献者：
+- 主要贡献者：
    - Gavin Guo：HVML 徽标视觉设计者。
    - 戴哲楠：HVML 徽标设计者。
    - 田思源：HVML 徽标的最初设计者。

@@ -1,16 +1,6 @@
 # Welcome to the HVML Community
 
-**Table of Contents**
-
-[//]:# (START OF TOC)
-
-- [Introduction](#introduction)
-- [Members and Sponsors](#members-and-sponsors)
-- [Resources](#resources)
-
-[//]:# (END OF TOC)
-
-**[中文版请点击此处](profile/README-zh.md)**
+**[中文版](profile/README-zh.md)**
 
 ## Introduction
 
@@ -47,18 +37,19 @@ Hence the HVML community is here.
    - New samples to illustrate how to use Foil renderer in HVML.
 - On Mar. 31, 2023, HVML Community announces the availability of xGUI Pro 0.6.4.
    The most important feature in this version is as follow:
-   - It is compatible with the standard WebKit2Gtk development packages on Linux or macOS (by using macPorts).
+   - xGUI Pro now is compatible with the standard upstream WebKit2Gtk development package.
    That is, the tailored WebKit is no longer a must.
+   - xGUI Pro now provides support for Linux and macOS.
 
-## Developers and Contributors
+## Main Developers and Contributors
 
-- Developers:
+- Main Developers:
    - Vincent Wei: The architect; one of the maintainers of PurC and xGUI Pro.
    - XUE Shuming: One of maintainers of PurC and PurC Fetcher.
    - LIU Xin: The developer and maintainer of extenal DVObj `FS` and `FILE` of PurC.
    - XU Xiaohong: He was involved in the development of PurC prior to v0.8.0.
    - GENG Yue: He was involved in the development of PurC prior to v0.2.0.
-- Contributors:
+- Main Contributors:
    - Gavin Guo: The visual designer of HVML logo.
    - DAI Zhenan (戴哲楠): The visual designer of HVML logo.
    - TIAN Siyuan (田思源): The original designer of HVML logo.
