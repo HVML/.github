@@ -33,34 +33,22 @@ It will be a long-term project, and it could not be achieved with only a few peo
 The initiators and the designer of HVML, Vincent Wei, decided to unite others to jointly develop HVML in an open source collaboration.
 
 Hence the HVML community is here.
+[Write to us](mailto:hvml@fmsoft.cn) and join HVML Community now,
+    or refer to <https://hvml.fmsoft.cn> for more information.
 
-## Members and Sponsors
+## Recent Updates
 
-The members make up the Administrative Leadership structure for the HVML Project.
-They contribute time, money, and effort in order to consistently make the HVML
-technically progressive and financially stable.
-
-- Platinum Members:
-   - [FMSoft Technologies]
-   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
-- Gold Members:
-   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
-- Silver Members:
-   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
-- Individual Members:
-   - LIU Xin
-   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
-- Sponsors
-   - [FMSoft Technologies]
-   - [We are waiting for you](https://hvml.fmsoft.cn/contact)
-
-Anyone or organization can participate in the HVML project in different ways:
-
-- Become a member and take part in the development.
-- Sponsor this project.
-- Contribute your knowledge, time, and effort.
-
-[Write to us](mailto:hvml@fmsoft.cn) and join HVML Community now!
+- On Mar. 31, 2023, HVML Community announces the availability of PurC 0.9.8.
+   The important features in this version are as follow:
+   - The basic implementation of `$PY`. HVML now can interact with Python.
+   - Support for floats and absoluted positioning in Foil renderer.
+   - Add a auto-test HVML program and many test cases to test Foil renderer.
+   - New samples to illustrate how to embed Python in HVML.
+   - New samples to illustrate how to use Foil renderer in HVML.
+- On Mar. 31, 2023, HVML Community announces the availability of xGUI Pro 0.6.4.
+   The most important feature in this version is as follow:
+   - It is compatible with the standard WebKit2Gtk development packages on Linux or macOS (by using macPorts).
+   That is, the tailored WebKit is no longer a must.
 
 ## Developers and Contributors
 
@@ -78,27 +66,18 @@ Anyone or organization can participate in the HVML project in different ways:
 
 ## Resources
 
-To quickly learn how to program with HVML, please refer to the tutorial:
-
-- [Learn HVML Programming in 30 Minutes](https://github.com/HVML/hvml-docs/blob/master/en/learn-hvml-programming-in-30-minutes-en.md)
-
-For an detailed introduction to HVML, please refer to the article (10% complete):
-
-- [HVML, a Programable Markup Language](https://github.com/HVML/hvml-docs/blob/master/en/an-introduction-to-hvml-en.md)
-
-For the language specification of HVML, please refer to the specification doucment:
-
-- [HVML Specifiction V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
-
-For the predefined variables of HVML, please refer to the specification document:
-
-- [HVML Specifiction of Predefined Variables V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
-
 Here are links to the open source repositories:
 
 - [PurC](https://github.com/HVML/PurC): the Prime hVml inteRpreter for C/C++ language.
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro): an advanced HVML renderer based on WebKit.
-- [PurC Midnight Commander](https://github.com/HVML/PurC-Midnight-Commander): an HVML renderer in text-mode for developing and debugging.
+
+Some articles about HVML:
+
+- [HVML, a Programable Markup Language](https://github.com/HVML/hvml-docs/blob/master/en/an-introduction-to-hvml-en.md)
+- [Learn HVML Programming in 30 Minutes](https://github.com/HVML/hvml-docs/blob/master/en/learn-hvml-programming-in-30-minutes-en.md)
+- [Embedding Python in HVML](https://github.com/HVML/HVML-Docs/blob/master/en/embed-python-in-hvml-program-en.md)
+- [HVML Specifiction V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
+- [HVML Specifiction of Predefined Variables V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
 
 ---
 
@@ -108,6 +87,7 @@ Here are links to the open source repositories:
 [HybridOS]: https://hybridos.fmsoft.cn
 
 [HVML]: https://github.com/HVML
+[HVML Website]: https://hvml.fmsoft.cn
 [MiniGUI]: http:/www.minigui.com
 [WebKit]: https://webkit.org
 

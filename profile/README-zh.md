@@ -31,35 +31,9 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
 因此，HVML 的发起者和设计者魏永明，决定联合其他人在开源协作的模式下共同开发 HVML。
 
 这便是 HVML 社区的来由。
+要加入 HVML 社区，现在便可 [致信我们](mailto:hvml@fmsoft.cn) 或访问 <https://hvml.fmsoft.cn> 以获取更多信息！
 
-## 会员和赞助商
-
-这些会员构成了 HVML 项目的行政领导结构。他们贡献了时间、金钱和精力，
-以始终如一地使 HVML 项目在技术上进步和财务上稳定。
-
-- 白金会员：
-   - [飞漫软件]
-   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
-- 黄金会员：
-   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
-- 白银会员：
-   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
-- 个人会员：
-   - 刘新
-   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
-- 赞助商
-   - [飞漫软件]
-   - [虚位以待](https://hvml.fmsoft.cn/zh/contact)
-
-任何人或组织可以以不同的方式参与 HVML 项目：
-
-- 成为会员并参与开发。
-- 以赞助商身份赞助本项目。
-- 以贡献者身份贡献自己的力量。
-
-要加入 HVML 社区，现在 [致信我们](mailto:hvml@fmsoft.cn) 获得相信信息！
-
-## 开发者和贡献者
+## 主要开发者和贡献者
 
 - 开发者：
    - 魏永明：架构师，HVML 解释器 PurC 和渲染器 xGUI Pro 的主要开发者和维护者。
@@ -75,27 +49,18 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
 
 ## 资源
 
-要想了解如何使用 HVML 编程，可参阅如下教程：
-
-- [30 分钟学会 HVML 编程](https://github.com/HVML/hvml-docs/blob/master/zh/learn-hvml-programming-in-30-minutes-zh.md)
-
-要了解 HVML 的来由和设计思想，可阅读如下文章：
-
-- [漫谈 HVML，它的由来和未来](https://github.com/HVML/hvml-docs/blob/master/zh/brief-introduction-to-hvml-zh.md)
-
-HVML 规范，可参阅如下文档：
-
-- [HVML 规范 V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
-
-HVML 预定义变量，可从参阅如下规范文档：
-
-- [HVML 预定义变量规范 V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
-
-下面是 HVML 相关项目的开源仓库的链接：
+下面是 HVML 相关开源仓库的链接：
 
 - [PurC](https://github.com/HVML/PurC)：首个针对 C/C++ 语言的 HVML 解释器（the Prime hVml inteRpreter for C/C++ language）。
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro)：一款基于 WebKit 实现的 HVML 渲染器。
-- [PurC Midnight Commander](https://github.com/HVML/PurC-Midnight-Commander)：文本模式的 HVML 渲染器，用于开发和调试。
+
+如下是一些介绍 HVML 的文章、教程或者规范文档的链接：
+
+- [漫谈 HVML，它的由来和未来](https://github.com/HVML/hvml-docs/blob/master/zh/brief-introduction-to-hvml-zh.md)
+- [30 分钟学会 HVML 编程](https://github.com/HVML/hvml-docs/blob/master/zh/learn-hvml-programming-in-30-minutes-zh.md)
+- [在 HVML 中嵌入 Python](https://github.com/HVML/HVML-Docs/blob/master/zh/embed-python-in-hvml-program-zh.md)
+- [HVML 规范 V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-v1.0-zh.md)
+- [HVML 预定义变量规范 V1.0](https://github.com/HVML/hvml-docs/blob/master/zh/hvml-spec-predefined-variables-v1.0-zh.md)
 
 ---
 
@@ -105,6 +70,7 @@ HVML 预定义变量，可从参阅如下规范文档：
 [HybridOS]: https://hybridos.fmsoft.cn
 
 [HVML]: https://github.com/HVML
+[HVML官网]: https://hvml.fmsoft.cn
 [MiniGUI]: http:/www.minigui.com
 [WebKit]: https://webkit.org
 
