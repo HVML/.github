@@ -24,15 +24,9 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
 
 ## 最近更新
 
-- 2023 年 3 月 31 日，HVML 社区发布了 HVML 开源解释器 PurC 0.9.8，主要特性如下：
-   - 可加载动态对象 `$PY` 的基本实现，HVML 现在可和 Python 交互。
-   - Foil 渲染器提供对浮动和绝对定位的支持。
-   - 增加自动化测试程序（HVML 编写），用于测试 Foil 渲染器。
-   - 增加示例程序，用于说明如何在 HVML 程序中内嵌 Python 代码。
-   - 增加示例程序，用于说明如何使用 Foil 渲染器。
-- 2023 年 3 月 31 日，HVML 社区发布了 HVML 开源渲染器 xGUI Pro 0.6.4，主要特性如下：
-   - xGUI Pro 可直接运行在上游标准的 WebKit2GTK 开发包之上。
-   - xGUI Pro 可运行在 Linux 和 macOS 上。
+- 2023 年 12 月 08 日，HVML 社区发布了 HVML 开源解释器 PurC 0.9.18 和 HVML 开源渲染器 xGUI Pro 0.9.0。
+- 2023 年 5 月 31 日，HVML 社区发布了 HVML 开源解释器 PurC 0.9.8。
+- 2023 年 3 月 31 日，HVML 社区发布了 HVML 开源渲染器 xGUI Pro 0.6.4。
 
 ## 主要开发者和贡献者
 
@@ -52,8 +46,10 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
 
 下面是 HVML 相关开源仓库的链接：
 
+- [HVML Documents](https://github.com/HVML/HVML-Docs): HVML 规范文档。
 - [PurC](https://github.com/HVML/PurC)：首个针对 C/C++ 语言的 HVML 解释器（the Prime hVml inteRpreter for C/C++ language）。
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro)：一款基于 WebKit 实现的 HVML 渲染器。
+- [HVML FPM](https://github.com/HVML/HVML-FPM): HVML 的 FastCGI 进程管理器。
 
 如下是一些介绍 HVML 的文章、教程或者规范文档的链接：
 

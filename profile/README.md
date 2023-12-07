@@ -24,22 +24,13 @@ The initiators and the designer of HVML, Vincent Wei, decided to unite others to
 
 Hence the HVML community is here.
 [Write to us](mailto:hvml@fmsoft.cn) and join HVML Community now,
-    or refer to <https://hvml.fmsoft.cn> for more information.
+    or refer to <https://www.hvml.org> for more information.
 
 ## Recent Updates
 
+- On Dec. 07, 2023, HVML Community announces the availability of PurC 0.9.18 and xGUI Pro 0.9.0.
 - On Mar. 31, 2023, HVML Community announces the availability of PurC 0.9.8.
-   The important features in this version are as follow:
-   - The basic implementation of `$PY`. HVML now can interact with Python.
-   - Support for floats and absoluted positioning in Foil renderer.
-   - Add a auto-test HVML program and many test cases to test Foil renderer.
-   - New samples to illustrate how to embed Python in HVML.
-   - New samples to illustrate how to use Foil renderer in HVML.
 - On Mar. 31, 2023, HVML Community announces the availability of xGUI Pro 0.6.4.
-   The most important feature in this version is as follow:
-   - xGUI Pro now is compatible with the standard upstream WebKit2Gtk development package.
-   That is, the tailored WebKit is no longer a must.
-   - xGUI Pro now provides support for Linux and macOS.
 
 ## Main Developers and Contributors
 
@@ -59,8 +50,10 @@ Hence the HVML community is here.
 
 Here are links to the open source repositories:
 
+- [HVML Documents](https://github.com/HVML/HVML-Docs): the specifications of HVML.
 - [PurC](https://github.com/HVML/PurC): the Prime hVml inteRpreter for C/C++ language.
 - [xGUI Pro](https://github.com/HVML/xGUI-Pro): an advanced HVML renderer based on WebKit.
+- [HVML FPM](https://github.com/HVML/HVML-FPM): The FastCGI Process Manager for HVML.
 
 Some articles about HVML:
 
