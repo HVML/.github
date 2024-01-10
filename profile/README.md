@@ -41,6 +41,7 @@ Hence the HVML community is here.
    - XU Xiaohong: He was involved in the development of PurC prior to v0.8.0.
    - GENG Yue: He was involved in the development of PurC prior to v0.2.0.
 - Main Contributors:
+   - LIU Ken（刘垦）: The evangelist of HVML community.
    - Gavin Guo: The visual designer of HVML logo.
    - DAI Zhenan (戴哲楠): The visual designer of HVML logo.
    - TIAN Siyuan (田思源): The original designer of HVML logo.
