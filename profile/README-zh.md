@@ -24,6 +24,8 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
 
 ## 最近更新
 
+- 2025 年 04 月 30 日，FMSoft 发布了跨平台 HVML 渲染器 xGUI 0.9.22（专有软件）。
+- 2025 年 04 月 25 日，HVML 社区发布了 HVML 开源解释器 PurC 0.9.22、HVML 开源渲染器 xGUI Pro 0.9.22 以及 HVML FastCGI 进程管理器 HVML-FPM 0.0.4。
 - 2023 年 12 月 08 日，HVML 社区发布了 HVML 开源解释器 PurC 0.9.18 和 HVML 开源渲染器 xGUI Pro 0.9.0。
 - 2023 年 5 月 31 日，HVML 社区发布了 HVML 开源解释器 PurC 0.9.8。
 - 2023 年 3 月 31 日，HVML 社区发布了 HVML 开源渲染器 xGUI Pro 0.6.4。
