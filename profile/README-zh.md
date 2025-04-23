@@ -1,6 +1,6 @@
 # 欢迎来到 HVML 社区
 
-**[English Version](profile/README.md)**
+**[English Version](/profile/README.md)**
 
 ## 介绍
 

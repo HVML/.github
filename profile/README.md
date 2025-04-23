@@ -1,6 +1,6 @@
 # Welcome to the HVML Community
 
-**[中文版](profile/README-zh.md)**
+**[中文版](/profile/README-zh.md)**
 
 ## Introduction
 
