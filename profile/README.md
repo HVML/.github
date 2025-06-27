@@ -28,6 +28,7 @@ Hence the HVML community is here.
 
 ## Recent Updates
 
+- On Jun. 30, 2025, HVML Community announces the availability of PurC 0.9.24, xGUI Pro 0.9.24, and HVML-FPM 0.0.6.
 - On Apr. 30, 2025, FMSoft announces the availability of xGUI 0.9.22 (proprietary software).
 - On Apr. 25, 2025, HVML Community announces the availability of PurC 0.9.22, xGUI Pro 0.9.22, and HVML-FPM 0.0.4.
 - On Dec. 07, 2023, HVML Community announces the availability of PurC 0.9.18 and xGUI Pro 0.9.0.
