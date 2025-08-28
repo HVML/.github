@@ -35,10 +35,12 @@ HVML 的最初设计目标是，在 C/C++、Python 等编程语言的运行时�
 
 - 主要开发者：
    - 魏永明：架构师，HVML 解释器 PurC 和渲染器 xGUI Pro 的主要开发者和维护者。
-   - 薛淑明：HVML 解释器 PurC 的主要开发者和维护者。
-   - 刘新：HVML 解释器 PurC 中外部动态对象 `FS` 和 `FILE` 的开发者和维护者。
+   - 薛淑明：HVML 解释器 PurC、渲染器 xGUI 的主要开发者和维护者。
+   - 高来红：HVML 渲染器 xGUI 的主要开发者和维护者。
+   - 李亮：曾参与 HVML 渲染器 Pur xGUI v0.9.24 之前的开发。
    - 徐晓宏：曾参与 HVML 解释器 PurC v0.8.0 之前的开发。
    - 耿岳：曾参与 HVML 解释器 PurC v0.2.0 之前的开发。
+   - 刘新：曾开发 HVML 解释器 PurC 中外部动态对象 `FS` 和 `FILE` 的开发。
 - 主要贡献者：
    - 刘垦：HVML 社区布道师。
    - Gavin Guo：HVML 徽标视觉设计者。
