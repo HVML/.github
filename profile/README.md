@@ -28,7 +28,7 @@ Hence the HVML community is here.
 
 ## Recent Updates
 
-- On Oct. 31, 2025, HVML Community and FMSoft announce the availability of PurC 0.9.26, xGUI Pro 0.9.26, xGUI 0.9.26, and HVML-FPM 0.1.0.
+- On Oct. 31, 2025, HVML Community and FMSoft announce the availability of PurC 0.9.26, xGUI Pro 0.9.26, xGUI 0.9.26, and HVML-FPM 0.9.26.
 - On Jun. 30, 2025, HVML Community announces the availability of PurC 0.9.24, xGUI Pro 0.9.24, and HVML-FPM 0.0.6.
 - On Apr. 30, 2025, FMSoft announces the availability of xGUI 0.9.22 (proprietary software).
 - On Apr. 25, 2025, HVML Community announces the availability of PurC 0.9.22, xGUI Pro 0.9.22, and HVML-FPM 0.0.4.
@@ -41,8 +41,8 @@ Hence the HVML community is here.
 - Main Developers:
    - Vincent Wei: The architect; one of the maintainers of PurC, xGUI, xGUI Pro, and HVML-FPM.
    - XUE Shuming: One of developers and maintainers of PurC, xGUI, xGUI Pro, and HVML-FPM.
-   - GAO Lionel: One of developers and maintainers of xGUI.
-   - LI Liang: He was involved in the development of xGUI prior to v0.9.24.
+   - GAO Lionel: One of developers and maintainers of xGUI Pro.
+   - LI Liang: He was involved in the development of PurC prior to v0.9.24.
    - XU Xiaohong: He was involved in the development of PurC prior to v0.8.0.
    - GENG Yue: He was involved in the development of PurC prior to v0.2.0.
    - LIU Xin: The developer and maintainer of extenal DVObj `FS` and `FILE` of PurC.
